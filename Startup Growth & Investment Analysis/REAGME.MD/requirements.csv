@@ -1,0 +1,19 @@
+# Startup Growth Analysis 📊
+
+## Overview
+This project analyzes startup funding, valuation, and growth trends using Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+
+## Key Insights
+- Top startups by valuation
+- Industry-wise growth comparison
+- Country-wise startup distribution
+
+## How to Run
+1. Install requirements
+2. Open Jupyter Notebook
+3. Run cells step by step
